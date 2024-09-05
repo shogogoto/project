@@ -1,0 +1,16 @@
+- [ ] 文法作成
+  - [x] heading
+  - [x] comment
+  - [ ] statement
+  - [ ] 定義(名付け)
+  - [ ] alias: 複数の名前を持てる
+  - [ ] declare: shortage nameの設定: 知識と関係ない便宜的なもの
+  - [ ] 具体例 e.g.
+  - [ ] indent block: 文脈が有効になる
+  - [ ] 前提: <-
+  - [ ] 帰結: ->
+  - [ ] 対義関係antonym: <->
+  - [ ] UnorderedList
+  - [ ] OrderedList
+  - [ ] 汎化
+  - [ ] 例化
